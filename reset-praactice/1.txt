@@ -1,0 +1,6 @@
+touch file3.txt
+vi file3.txt
+this is for git and jenkins
+:wq
+git add .
+git commit -m"first commit for jenkins"
